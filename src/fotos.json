@@ -1,0 +1,285 @@
+[
+  {
+    "titulo": "Mona Lisa",
+    "fonte": "Louvre Museum",
+    "path": "/imagens/galeria/foto-1.png",
+    "id": "1",
+    "tagId": 1
+  },
+  {
+    "titulo": "Leda e o Cisne",
+    "fonte": "",
+    "path": "/imagens/galeria/foto-39.png",
+    "id": "39",
+    "tagId": 1
+  },
+  {
+    "titulo": "O Batismo de Cristo",
+    "fonte": "National Gallery of Art ",
+    "path": "/imagens/galeria/foto-33.png",
+    "id": "33",
+    "tagId": 1
+  },
+  {
+    "titulo": "Observações botânicas e estudos de plantas",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-19.png",
+    "id": "19",
+    "tagId": 2
+  },
+  {
+    "titulo": "São João Batista",
+    "fonte": "Louvre Museum",
+    "path": "/imagens/galeria/foto-5.png",
+    "id": "5",
+    "tagId": 1
+  },
+  {
+    "titulo": "Estudos sobre o fluxo de água",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-14.png",
+    "id": "14",
+    "tagId": 2
+  },
+  {
+    "titulo": "Arco",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-40.png",
+    "id": "40",
+    "tagId": 3
+  },
+  {
+    "titulo": "A Última Ceia",
+    "fonte": "Cenacolo - Opera di Santa Maria delle Grazie",
+    "path": "/imagens/galeria/foto-2.png",
+    "id": "2",
+    "tagId": 1
+  },
+  {
+    "titulo": "Retrato de Isabella d'Este",
+    "fonte": "Private",
+    "path": "/imagens/galeria/foto-9.png",
+    "id": "9",
+    "tagId": 1
+  },
+  {
+    "titulo": "Salvator Mundi",
+    "fonte": "Private",
+    "path": "/imagens/galeria/foto-10.png",
+    "id": "10",
+    "tagId": 1
+  },
+  
+  {
+    "titulo": "Homem Vitruviano",
+    "fonte": "Gallerie dell'Accademia",
+    "path": "/imagens/galeria/foto-11.png",
+    "id": "11",
+    "tagId": 2
+  },
+  {
+    "titulo": "Estudos detalhados do coração e da circulação sanguínea",
+    "fonte": "The Royal Collection",
+    "path": "/imagens/galeria/foto-12.png",
+    "id": "12",
+    "tagId": 2
+  },
+  {
+    "titulo": "Estudos sobre o movimento da água e turbulência",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-13.png",
+    "id": "13",
+    "tagId": 2
+  },
+  {
+    "titulo": "São Jerônimo",
+    "fonte": "Vatican Museums",
+    "path": "/imagens/galeria/foto-6.png",
+    "id": "6",
+    "tagId": 1
+  },
+  {
+    "titulo": "Desenhos de órgãos internos e sistemas do corpo",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-15.png",
+    "id": "15",
+    "tagId": 2
+  },
+  {
+    "titulo": "Ginevra de' Benci",
+    "fonte": "National Gallery of Art ",
+    "path": "/imagens/galeria/foto-7.png",
+    "id": "7",
+    "tagId": 1
+  },
+  {
+    "titulo": "Retrato de Cecilia Gallerani ",
+    "fonte": "The Princes Czartoryski Museum",
+    "path": "/imagens/galeria/foto-8.png",
+    "id": "8",
+    "tagId": 1
+  },
+  {
+    "titulo": "Desenhos de embriões humanos",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-16.png",
+    "id": "16",
+    "tagId": 2
+  },
+  {
+    "titulo": "A Batalha de Anghiari",
+    "fonte": "Lost",
+    "path": "/imagens/galeria/foto-34.png",
+    "id": "34",
+    "tagId": 1
+  },
+  {
+    "titulo": "Estudos de aves e asas para suas máquinas voadoras",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-18.png",
+    "id": "18",
+    "tagId": 2
+  },
+  {
+    "titulo": "Observações sobre a física da luz e sombra",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-17.png",
+    "id": "17",
+    "tagId": 2
+  },
+  {
+    "titulo": "Estudo de braços e mãos",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-35.png",
+    "id": "35",
+    "tagId": 2
+  },
+  {
+    "titulo": "Desenhos de esqueletos e musculatura",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-20.png",
+    "id": "20",
+    "tagId": 2
+  },
+
+  {
+    "titulo": "Máquinas voadoras",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-21.png",
+    "id": "21",
+    "tagId": 3
+  },
+  {
+    "titulo": "Projeto do Helicóptero",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-22.png",
+    "id": "22",
+    "tagId": 3
+  },
+  {
+    "titulo": "Máquina de Guerra, como o tanque",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-23.png",
+    "id": "23",
+    "tagId": 3
+  },
+  {
+    "titulo": "Ponte Móvel com Sistema de Engrenagens",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-24.png",
+    "id": "24",
+    "tagId": 3
+  },
+  {
+    "titulo": "Projetos de Canais e Barragens",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-25.png",
+    "id": "25",
+    "tagId": 3
+  },
+
+  {
+    "titulo": "Caderno de Observações sobre Física e Mecânica",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-26.png",
+    "id": "26",
+    "tagId": 4
+  },
+  {
+    "titulo": "Caderno de Observações sobre Voo ",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-27.png",
+    "id": "27",
+    "tagId": 4
+  },
+  {
+    "titulo": "Caderno de Matemática e Geometria",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-28.png",
+    "id": "28",
+    "tagId": 4
+  },
+  {
+    "titulo": "Virgem das Rochas",
+    "fonte": "Louvre Museum",
+    "path": "/imagens/galeria/foto-32.png",
+    "id": "32",
+    "tagId": 1
+  },
+  {
+    "titulo": "Caderno de Estudos Botânicos",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-29.png",
+    "id": "29",
+    "tagId": 4
+  },
+  {
+    "titulo": "Caderno de Máquinas e Invenções",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-30.png",
+    "id": "30",
+    "tagId": 4
+  },
+  {
+    "titulo": "Caderno de Anatomia",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-31.png",
+    "id": "31",
+    "tagId": 4
+  },
+  {
+    "titulo": "Musculos das costas",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-36.png",
+    "id": "36",
+    "tagId": 2
+  },
+  {
+    "titulo": "Esqueleto dos pés",
+    "fonte": "Cadernos de anotações de Da Vinci",
+    "path": "/imagens/galeria/foto-38.png",
+    "id": "38",
+    "tagId": 2
+  },
+  {
+    "titulo": "A Virgem e o Menino com Santa Ana",
+    "fonte": "Louvre Museum",
+    "path": "/imagens/galeria/foto-3.png",
+    "id": "3",
+    "tagId": 1
+  },
+  {
+    "titulo": "A Adoração dos Magos",
+    "fonte": "Royal Collection Trust",
+    "path": "/imagens/galeria/foto-4.png",
+    "id": "4",
+    "tagId": 1
+  },
+    {
+      "titulo": "Esboço de um Leão",
+      "fonte": "Cadernos de anotações de Da Vinci",
+      "path": "/imagens/galeria/foto-37.png",
+      "id": "37",
+      "tagId": 2
+    }
+]
