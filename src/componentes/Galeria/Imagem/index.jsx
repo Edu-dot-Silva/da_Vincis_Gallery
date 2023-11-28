@@ -3,7 +3,8 @@ import BotaoIcone from "../../BotaoIcone"
 
 
 const Figure = styled.figure`
-    width: ${props => props.$expandida ? '90%' : '460px'};
+    width: ${props => props.$expandida ? '550px' : '460px'};
+    /* height: ${props => props.$expandida ? 'auto' : 'auto'}; */
     max-width: 100%;
     margin: 0;
     display: flex;
